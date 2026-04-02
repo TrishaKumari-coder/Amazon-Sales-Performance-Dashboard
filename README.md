@@ -245,13 +245,6 @@ Customers use all payment methods almost equally, with slight preference for dig
 
 ---
 
-## 🚀 Future Improvements
-
-* Add profit margin and cost analysis.
-* Implement sales forecasting models.
-* Perform customer segmentation.
-* Deploy dashboard to Power BI Service for live reporting.
-
 ---
 
 ## 📌 Conclusion
