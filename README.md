@@ -4,8 +4,9 @@
 ---
 
 ## 📸Dashboard Preview
+![Dashboard] (preview.png) : 
 
-![Dashboard] : https://github.com/TrishaKumari-coder/Amazon-Sales-Performance-Dashboard/blob/main/amazon_sales_dashboard.pdf
+![Dashboard] (pdf) : https://github.com/TrishaKumari-coder/Amazon-Sales-Performance-Dashboard/blob/main/amazon_sales_dashboard.pdf
 
 ## 🎯 Objective
 
