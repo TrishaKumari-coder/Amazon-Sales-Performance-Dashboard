@@ -51,7 +51,7 @@ The dataset contains approximately **50,000 orders** used for analysis.
   https://github.com/TrishaKumari-coder/Amazon-Sales-Performance-Dashboard/blob/main/amazon_sales_clean.csv
 
 * 📊 Dashboard (PDF):
-  https://github.com/yourusername/yourrepo/blob/main/amazon_sales_dashboard.pdf
+  https://github.com/TrishaKumari-coder/Amazon-Sales-Performance-Dashboard/blob/main/amazon_sales_dashboard.pbix
 
 ---
 
