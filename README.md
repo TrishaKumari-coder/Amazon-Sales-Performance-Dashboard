@@ -4,7 +4,7 @@
 ---
 
 ## 📸Dashboard Preview
-![Dashboard] (preview.png) : https://github.com/TrishaKumari-coder/Amazon-Sales-Performance-Dashboard/blob/main/Screenshot%202026-03-23%20174527.png
+![Dashboard] (preview.png) : Screenshot%202026-03-23%20174527.png
 
 ![Dashboard] (pdf) : https://github.com/TrishaKumari-coder/Amazon-Sales-Performance-Dashboard/blob/main/amazon_sales_dashboard.pdf
 
