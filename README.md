@@ -5,7 +5,7 @@
 
 ## 📸Dashboard Preview
 
-![Dashboard](C:\Users\TRISHA KUMARI\OneDrive\Documents\amazon_sales_dashboard.pbix)
+![Dashboard] (C:\Users\TRISHA KUMARI\OneDrive\Documents\amazon_sales_dashboard.pbix)
 
 ## 🎯 Objective
 
