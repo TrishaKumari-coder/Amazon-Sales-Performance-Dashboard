@@ -3,6 +3,10 @@
 
 ---
 
+## 📸Dashboard Preview
+
+![Dashboard](C:\Users\TRISHA KUMARI\OneDrive\Documents\amazon_sales_dashboard.pbix)
+
 ## 🎯 Objective
 
 The objective of this project is to analyze Amazon sales data to evaluate overall business performance across product categories, regions, time periods, and payment methods.
