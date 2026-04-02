@@ -71,7 +71,7 @@ The raw dataset was cleaned and prepared before analysis.
   * Month Name
   * Year
 
-The cleaned dataset (`amazon_sales_clean.csv`) was used for dashboard creation.
+The cleaned dataset (https://github.com/TrishaKumari-coder/Amazon-Sales-Performance-Dashboard/blob/main/amazon_sales_clean.csv) was used for dashboard creation.
 
 ---
 
