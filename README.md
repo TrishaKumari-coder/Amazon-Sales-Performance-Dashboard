@@ -5,7 +5,7 @@
 
 ## 📸Dashboard Preview
 
-![Dashboard] (C:\Users\TRISHA KUMARI\OneDrive\Documents\amazon_sales_dashboard.pbix)
+![Dashboard] : (C:\Users\TRISHA KUMARI\OneDrive\Documents\amazon_sales_dashboard.pbix)
 
 ## 🎯 Objective
 
@@ -52,7 +52,7 @@ The dataset contains approximately **50,000 orders** used for analysis.
 * 📂 Cleaned Dataset:
   https://github.com/TrishaKumari-coder/Amazon-Sales-Performance-Dashboard/blob/main/amazon_sales_clean.csv
 
-* 📊 Dashboard (PDF):
+* 📊 Dashboard ( link):
   https://github.com/TrishaKumari-coder/Amazon-Sales-Performance-Dashboard/blob/main/amazon_sales_dashboard.pbix
 
 ---
